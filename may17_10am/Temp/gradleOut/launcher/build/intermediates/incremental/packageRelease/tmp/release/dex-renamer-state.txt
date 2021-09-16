@@ -1,0 +1,4 @@
+#Thu Sep 16 14:19:03 EDT 2021
+base.0=C\:\\Users\\imdadmin\\Desktop\\Lonelight\\may17_10am\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
